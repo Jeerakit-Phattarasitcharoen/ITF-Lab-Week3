@@ -1,2 +1,4 @@
 # ITF-Lab-Week3
-E
+# Hello ITF-Lab-Week3
+
+**LOL is nice game community**
